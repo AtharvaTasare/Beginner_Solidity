@@ -27,7 +27,7 @@ For Burn , I put a Specific value to Burn it will decrease the totalsupply and b
 
 ## Help
 
-I know little bit about this technology but in this platform i got a best opportunity to do it . The PATHWAYS are properly designed .
+I know little bit about this technology but in this platform I got a best opportunity to do it . The PATHWAYS are properly designed .
 
 ## Authors
 ATHARVA TASARE
