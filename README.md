@@ -1,16 +1,16 @@
 # Solidity_Beginner_Course
-In this course I was learnt about Blockchain and Web3 along with the solidity programming. There are so many concepts of solidity I learnt from this course like as
+In this course I learnt about Blockchain and Web3 along with the solidity programming. There are so many concepts of solidity which I learnt from this course such as
 
 1.Variables
 2.Datatypes
 3.Mapping
 4.Functions etc,
-Afterwards completion of this course I get a project to mint and burn a token with the help of solidity.
+Afterwards completion of this course I got a project to mint and burn a token with the help of solidity.
 
 ## Challenge_Overview
 
-In this challenge I have to created contract name as MyToken give a string named "Tname" abbreviated as "Tabb" along with the record of its total supply (Initially set as zero). 
-To run this mint and burn function i have to create a function MINT AND BURN FUNCTION
+In this challenge I have to create contract name as MyToken give a string named "Tname" abbreviated as "Tabb" along with the record of its total supply (Initially set as zero). 
+To run this mint and burn function I have to create a function MINT AND BURN funciton
 For mint , I put a Specific value to Mint it will increase the totalsupply and balance as well. (In this I used 400)
 For Burn , I put a Specific value to Burn it will decrease the totalsupply and balance as well. (In this I  used 100)
 
